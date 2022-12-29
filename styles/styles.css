@@ -758,31 +758,31 @@
   justify-content: space-evenly;
 }
 
-.fx-row {
+.row {
   flex-direction: row;
 }
 
-.fx-row-rev {
+.row-rev {
   flex-direction: row-reverse;
 }
 
-.fx-col {
+.col {
   flex-direction: column;
 }
 
-.fx-col-rev {
+.col-rev {
   flex-direction: column-reverse;
 }
 
-.fx-wrap {
+.wrap {
   flex-wrap: wrap;
 }
 
-.fx-nowrap {
+.nowrap {
   flex-wrap: nowrap;
 }
 
-.fx-wrap-rev {
+.wrap-rev {
   flex-wrap: wrap-reverse;
 }
 
