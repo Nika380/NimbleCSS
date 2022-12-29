@@ -8,12 +8,18 @@
 
 // WIDTH AND HEIGHT
 
-@import "width-and-height";
+
 
 
  //  BUTTONS
  @import "buttons";
 
+ @import "responsive";
+
+
+@import "fonts";
+
+@import "width-and-height";
 
  //          POSITIONS
 
@@ -214,13 +220,13 @@
 
 
 //              BORDER
-.sld {
+.solid {
     border: solid 2px;
 }
-.dshd{
+.dashed{
     border: dashed 2px;
 }
-.dtd {
+.dot {
     border: dotted 3px;
 }
 
@@ -567,9 +573,9 @@ margin-right: 50px;
 
 
 
-
-
-
+.z-10 {
+    z-index: 10;
+}
 
 
 .btn-2 {
