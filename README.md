@@ -4,3 +4,6 @@ It is CSS framework that help you to build websites more faster and easier, make
 # How To Use It
 Just Add This Link In Your HTML File And Enjoy Making Websites<br>
 <code><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/nimblecss"</code>>
+
+Or You Can Install npm package in your project using this command:
+  npm i nimblecss
